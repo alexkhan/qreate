@@ -1,0 +1,1 @@
+<a href="index.php">Home</a> <a href="welcome.php">QReate</a> <a href="leaderboard.php">Leaderboard</a> <a href="qcoins.php">How To Play</a>

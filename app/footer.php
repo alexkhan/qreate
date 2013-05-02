@@ -1,0 +1,1 @@
+<a href="privacy.php">disclaimer &amp; privacy policy</a>
